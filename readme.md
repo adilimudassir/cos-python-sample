@@ -1,4 +1,7 @@
 # COS Python Sample App
+ 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/54720664bb154753b702214a5cc81a2e)](https://app.codacy.com/gh/namely/cos-python-sample/dashboard)
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/54720664bb154753b702214a5cc81a2e)](https://app.codacy.com/gh/namely/cos-python-sample/dashboard)
 
 Sample gRPC python application using [Chief of State](https://github.com/namely/chief-of-state).
 
